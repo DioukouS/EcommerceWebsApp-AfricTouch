@@ -26,7 +26,7 @@ The Online Store Website Development project aims to build a fully functional on
 | 12/01/2024 | Dioukou Sissoko    | Developement (Coding Phase)          |
 | 12/15/2024 | Dioukou Sissoko    | Milestone 5: Testing (Testing phase)           |
 | 12/22/2024 | Dioukou Sissoko    | Benchmark - Milestone 6: Final Project Completion and Presentation (Release Phase) design                 |
-| 1/05/2025 | Dioukou Sissoko    | Milestone 6: Final Project Completion and Presentation (Release Phase)               |
+| 01/05/2025 | Dioukou Sissoko    | Milestone 6: Final Project Completion and Presentation (Release Phase)               |
 
 ### Overall Instructor Feedback/Comments
 
