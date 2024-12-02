@@ -1,6 +1,6 @@
 # Dioukou Sissoko
 
-## CST-451 Capstone Project Final Architecture & Design
+## CST-452 Senior Project II
 
 ### Grand Canyon University
 
