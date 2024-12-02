@@ -104,9 +104,6 @@ The UML diagrams, such as data flow diagrams and functional components, describe
 4. **Database:** JSON File Storage  
    Stores product data and user information, acting as the database for the application. 
 
-5. **Localhost Environment**  
-   The entire application is run in a local environment using MAMP to simulate the real-world use cases without external hosting.
-
    ---
 
 ## Detailed Technical Design 
