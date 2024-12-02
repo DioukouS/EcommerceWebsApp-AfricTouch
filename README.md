@@ -73,7 +73,7 @@ The UML diagrams, such as data flow diagrams and functional components, describe
 ### Tools
 
 - **User:** Display result on any browsers such as Safari, Chrome, Firefox, or Edge 
-- **Front End:** HTML5, JSX, CSS3, Bootstrap, PHP 
+- **Front End:** HTML5, JSX, React.js CSS3, Bootstrap 
 - **Back End:** NodeJS, JSON Server for API and data storage 
 
 ---
