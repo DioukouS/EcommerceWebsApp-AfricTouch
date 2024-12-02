@@ -17,7 +17,7 @@ The Online Store Website Development project aims to build a fully functional on
 
 ---
 
-## History and Signoff Sheet
+## Porject Projection and Completion timeline
 
 ### Change Record
 
