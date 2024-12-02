@@ -161,4 +161,11 @@ The project follows an interactive e-commerce development approach to sell tailo
    - **License**: MIT License ([bootstrap/LICENSE](https://github.com/twbs/bootstrap/blob/main/LICENSE))  
    - **Use Case**: Responsive UI components for navigation bars, forms, and buttons.  
    - **Reason for Use**: Ready-to-use components and a responsive grid system accelerates front-end development.
+   - 
+   --
+## Appendix B – References
+
+- MySQL :: Download MySQL Workbench. (n.d.). [https://dev.mysql.com/downloads/workbench](https://dev.mysql.com/downloads/workbench)
+- facebook. (n.d.). react/LICENSE at main · facebook/react. GitHub. [https://github.com/facebook/react/blob/main/LICENSE](https://github.com/facebook/react/blob/main/LICENSE)
+- Typicode. (n.d.). json-server/LICENSE at main · typicode/json-server. GitHub. [https://github.com/typicode/json-server/blob/main/LICENSE](https://github.com/typicode/json-server/blob/main/LICENSE)
 ---
