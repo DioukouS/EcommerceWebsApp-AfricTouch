@@ -126,13 +126,13 @@ The project follows an interactive e-commerce development approach to sell tailo
 ---
 ### User Interface Diagrams: 
 - **HOMEPAGE:**
-![HOMEPAGE](https://github.com/Lediouk/Miletone3_EcomWebAPP/blob/main/UI_Homepage.png)
+![HOMEPAGE](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/UI_ContactPage.png)
 ---
 - **CONTACT:**
-![CONTACT](https://github.com/Lediouk/Miletone3_EcomWebAPP/blob/main/UI_ContactPage.png)
+![CONTACT](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/UI_ContactPage.png)
 ---
 - **REGISTER:**
-![REGISTER](https://github.com/Lediouk/Miletone3_EcomWebAPP/blob/main/UI_RegisterPage.png)
+![REGISTER](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/UI_RegisterPage.png)
 ---
 - **USER PROFILE:**
 ![USER](https://github.com/Lediouk/Miletone3_EcomWebAPP/blob/main/UI_RegisterPage.png)
