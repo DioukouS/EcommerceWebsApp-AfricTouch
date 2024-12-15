@@ -136,7 +136,7 @@ The project follows an interactive e-commerce development approach to sell tailo
 ---
 
 ### UML Diagrams: 
-![UML Diagrams](https://github.com/Lediouk/Miletone3_EcomWebAPP/blob/main/UML%20Class%20Diagram.png)
+![UML Diagrams](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/AfricTouch_UMLDiagram.png)
 
 ### Tools Used:
 
