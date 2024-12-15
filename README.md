@@ -151,4 +151,47 @@ The project follows an interactive e-commerce development approach to sell tailo
    - **Use Case**: Responsive UI components for navigation bars, forms, and buttons.  
    - **Reason for Use**: Ready-to-use components and a responsive grid system accelerates front-end development.
    - 
-   --
+   ---
+## Test Cases
+
+| Test Case ID | Test Case Name                | Steps                                                                 | Input/Output                      | Expected Outcome                                                                 | Result |
+|-------------|-------------------------------|-----------------------------------------------------------------------|-----------------------------------|---------------------------------------------------------------------------------|--------|
+| 1           | Add product                   | 1. Navigate to admin product creation page. <br> 2. Fill in product details <br> 3. Click "Submit" button | Product details: Name, Brand, Category, Price, Description, Image | Product added successfully and visible in product list. | Pass   |
+| 2           | Remove Product                | 1. Navigate to Admin product list. <br> 2. Click "Remove" next to product. | Product ID | Product removed successfully and no longer visible in product list. | Pass   |
+| 3           | Update Product                | 1. Navigate to admin product edit page. <br> 2. Update Name, Price fields and save. | Product Name, Price | Name and price updated correctly in the product list. | Pass   |
+| 4           | User Login                    | 1. Navigate to login page. <br> 2. Enter valid credentials. <br> 3. Click "Login". | Email, Password | User logged in successfully and redirected to home page. | Pass   |
+| 5           | User Registration             | 1. Navigate to registration page. <br> 2. Fill in registration details. <br> 3. Click "Register". | User details: Name, Phone, Email, Password, Address | User registered successfully and redirected to home. | Pass   |
+| 6           | View User Profile             | 1. Navigate to user profile page. | Sign in user with email and password | User profile details displayed correctly. | Pass   |
+| 7           | Update User Profile           | 1. Navigate to user profile page. <br> 2. Update details and save. | User details: Name, Email, Phone, Address | User profile updated successfully and changes reflected in profile. | Pass   |
+| 8           | JWT Authentication Verification | 1. Perform login. <br> 2. Check token in storage. | JWT token | Token generated and stored in localStorage or sessionStorage correctly. | Pass   |
+
+---
+
+## Conclusion
+- The e-commerce web application developed in this phase ensures a complete, responsive experience for the users and allows effective management for administrators. 
+- Each feature from login, product display, User profile managemen. Note, that authentication system is secured with JWT to ensure safe user access.
+- Moving forward, more testing and optimization to improve performance and scalability.
+
+- ---
+
+## Appendix A - Technical Issue and Risk Log
+
+| Issue ID | Description | Likelihood | Impact | Action | Status |
+|----------|-------------|------------|--------|--------|--------|
+| 1        | API latency issue | Medium | Medium | Optimize API calls | In Progress |
+| 2        | Product image not loading | Low | Low | Verify image paths | Fixed |
+| 3        | User authentication failure | High | High | Review token storage | Fixed |
+
+---
+
+## Appendix B - References
+
+1. React.js Documentation, [reactjs.org](https://reactjs.org/docs/getting-started.html)
+2. JWT Authentication Guide, [jwt.io](https://jwt.io/introduction/)
+
+---
+
+## Appendix C - External Resources
+
+1. Free API Data for Product Listings - [mockaroo.com](https://www.mockaroo.com/)
+2. Online Authentication Tutorial - [dev.to](https://dev.to/)
