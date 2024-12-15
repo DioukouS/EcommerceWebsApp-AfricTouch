@@ -134,9 +134,6 @@ The project follows an interactive e-commerce development approach to sell tailo
 - **REGISTER:**
 ![REGISTER](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/UI_RegisterPage.png)
 ---
-- **USER PROFILE:**
-![USER](https://github.com/Lediouk/Miletone3_EcomWebAPP/blob/main/UI_RegisterPage.png)
----
 
 ### UML Diagrams: 
 ![UML Diagrams](https://github.com/Lediouk/Miletone3_EcomWebAPP/blob/main/UML%20Class%20Diagram.png)
