@@ -39,7 +39,7 @@ Integrated Instructor Feedback into Project Documentation
 ## TABLE OF CONTENTS
 
 1. [Detailed High-Level Solution Design](#detailed-high-level-solution-design)
-3. [Detailed Technical Design](#detailed-technical-design)	6 
+2. [Detailed Technical Design](#detailed-technical-design)
 4. [Appendix A – Technical Issue and Risk Log](#appendix-a-technical-issue-and-risk-log)	7 
 5. [Appendix B – References](#appendix-b-references)	8 
 
