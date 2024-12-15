@@ -119,7 +119,7 @@ The project follows an interactive e-commerce development approach to sell tailo
 
 ---
 ### Flow Charts/Process Flows: 
-![UML Flow Diagram](https://github.com/Lediouk/Miletone3_EcomWebAPP/blob/main/FlowChartsProcessFlows.png)
+![UML Flow Diagram](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/FlowChartsProcessFlows.png)
 ---
 ### Sitemap Diagram: 
 ![Sitemap Diagram](https://github.com/Lediouk/Miletone3_EcomWebAPP/blob/main/Sitemap%20Diagram.png)
