@@ -197,3 +197,63 @@ The project follows an interactive e-commerce development approach to sell tailo
 
 1. Free API Data for Product Listings - [mockaroo.com](https://www.mockaroo.com/)
 2. Online Authentication Tutorial - [dev.to](https://dev.to/)
+
+---
+## Project Mapping Code:
+ **africstouchecomstore** 
+ africstouchecomstore/
+├── node_modules/
+├── public/
+├── src/
+│   ├── components/
+│   │   └── layout/
+│   │       ├── Footer.js
+│   │       ├── Navbar.js
+│   │       ├── layout.js
+│   │       ├── authorization.js
+│   ├── pages/
+│   │   ├── Home.js
+│   │   ├── Contact.js
+│   │   ├── NotFound.js
+│   │   ├── ProductDetails.js
+│   │   ├── UserProfile.js
+│   │   ├── admin/
+│   │   │   └── products/
+│   │   │       ├── CreateProduct.js
+│   │   │       ├── EditProduct.js
+│   │   │       ├── ProductList.js
+│   │   │   └── users/
+│   │   │       ├── UserDetails.js
+│   │   │       ├── UserList.js
+│   │   ├── auth/
+│   │       ├── Login.js
+│   │       ├── Register.js
+│   ├── App.js
+│   ├── AppContext.js
+│   ├── index.js
+├── hashPassword.js
+├── package-lock.json
+├── package.json
+├── source_code.code-workspace
+├── README.md
+└── .gitignore
+
+ **africstouchecomstore-api** 
+ africstouchecomstore-api/
+├── node_modules/
+├── public/
+│   └── images/
+├── africtouchecomstoreDB.json
+├── africtouchecomstoreServer.js
+├── package-lock.json
+├── package.json
+├── README.md
+└── .gitignore
+
+## DELIVERABLE 
+** Completed Final Project:**
+Fully commented source code and executable
+Project artifacts (Proposal, Requirements, Architecture Plan)
+Functional demo and presentation
+README with Git repository link, demonstrating source control best practices
+Internet-facing Project Portfolio showcasing the project for potential employers
