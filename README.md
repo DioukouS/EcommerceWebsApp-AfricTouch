@@ -206,6 +206,10 @@ The project follows an interactive e-commerce development approach to sell tailo
 africstouchecomstore/  
 ├── node_modules/  
 ├── public/  
+│   ├── images/  
+│   ├── favicon.ico  
+│   ├── manifest.json  
+│   └── robots.txt  
 ├── src/  
 │   ├── components/  
 │   │   └── layout/  
@@ -215,8 +219,7 @@ africstouchecomstore/
 │   │       ├── authorization.js  
 │   ├── pages/  
 │   │   ├── Home.js  
-│   │   ├── Contact.js
-│   │   ├── About.js 
+│   │   ├── Contact.js  
 │   │   ├── NotFound.js  
 │   │   ├── ProductDetails.js  
 │   │   ├── UserProfile.js  
@@ -239,7 +242,6 @@ africstouchecomstore/
 ├── package.json  
 ├── source_code.code-workspace  
 ├── README.md  
-└── .gitignore  
 
 africstouchecomstore-api/  
 ├── node_modules/  
