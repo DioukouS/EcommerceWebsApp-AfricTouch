@@ -250,7 +250,7 @@ africstouchecomstore-api/
 ├── package.json  
 ├── README.md  
 └── .gitignore  
-'''
+```
 ### Key Points:
 1. The **DELIVERABLES** section is placed outside of the code blocks.
 2. The **Project Mapping Code** part, which is a directory structure, is inside a code block (using triple backticks), so it stays in the correct format.
