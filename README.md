@@ -215,7 +215,8 @@ africstouchecomstore/
 │   │       ├── authorization.js  
 │   ├── pages/  
 │   │   ├── Home.js  
-│   │   ├── Contact.js  
+│   │   ├── Contact.js
+│   │   ├── About.js 
 │   │   ├── NotFound.js  
 │   │   ├── ProductDetails.js  
 │   │   ├── UserProfile.js  
