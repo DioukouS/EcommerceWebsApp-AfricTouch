@@ -241,17 +241,17 @@ africstouchecomstore/
 └── .gitignore  
 
 
- **africstouchecomstore-api** 
- africstouchecomstore-api/
-├── node_modules/
-├── public/
-│   └── images/
-├── africtouchecomstoreDB.json
-├── africtouchecomstoreServer.js
-├── package-lock.json
-├── package.json
-├── README.md
-└── .gitignore
+africstouchecomstore-api/  
+├── node_modules/  
+├── public/  
+│   └── images/  
+├── africtouchecomstoreDB.json  
+├── africtouchecomstoreServer.js  
+├── package-lock.json  
+├── package.json  
+├── README.md  
+└── .gitignore  
+
 
 ## DELIVERABLE 
 ** Completed Final Project:**
