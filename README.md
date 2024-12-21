@@ -202,7 +202,8 @@ The project follows an interactive e-commerce development approach to sell tailo
 ## Project Mapping Code:
 
 ### **africstouchecomstore** 
-africstouchecomstore/ ├── node_modules/
+africstouchecomstore/
+├── node_modules/
 ├── public/
 ├── src/
 │ ├── components/
@@ -225,7 +226,7 @@ africstouchecomstore/ ├── node_modules/
 │ │ │ └── users/
 │ │ │ ├── UserDetails.js
 │ │ │ ├── UserList.js
-│ │ ├── auth/
+│ ├── auth/
 │ │ ├── Login.js
 │ │ ├── Register.js
 │ ├── App.js
