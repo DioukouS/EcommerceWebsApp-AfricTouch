@@ -202,42 +202,43 @@ The project follows an interactive e-commerce development approach to sell tailo
 ## Project Mapping Code:
 
 ### **africstouchecomstore** 
-africstouchecomstore/
-├── node_modules/
-├── public/
-├── src/
-│ ├── components/
-│ │ └── layout/
-│ │ ├── Footer.js
-│ │ ├── Navbar.js
-│ │ ├── layout.js
-│ │ ├── authorization.js
-│ ├── pages/
-│ │ ├── Home.js
-│ │ ├── Contact.js
-│ │ ├── NotFound.js
-│ │ ├── ProductDetails.js
-│ │ ├── UserProfile.js
-│ │ ├── admin/
-│ │ │ └── products/
-│ │ │ ├── CreateProduct.js
-│ │ │ ├── EditProduct.js
-│ │ │ ├── ProductList.js
-│ │ │ └── users/
-│ │ │ ├── UserDetails.js
-│ │ │ ├── UserList.js
-│ ├── auth/
-│ │ ├── Login.js
-│ │ ├── Register.js
-│ ├── App.js
-│ ├── AppContext.js
-│ ├── index.js
-├── hashPassword.js
-├── package-lock.json
-├── package.json
-├── source_code.code-workspace
-├── README.md
-└── .gitignore
+```plaintext
+africstouchecomstore/  
+├── node_modules/  
+├── public/  
+├── src/  
+│   ├── components/  
+│   │   └── layout/  
+│   │       ├── Footer.js  
+│   │       ├── Navbar.js  
+│   │       ├── layout.js  
+│   │       ├── authorization.js  
+│   ├── pages/  
+│   │   ├── Home.js  
+│   │   ├── Contact.js  
+│   │   ├── NotFound.js  
+│   │   ├── ProductDetails.js  
+│   │   ├── UserProfile.js  
+│   │   ├── admin/  
+│   │   │   └── products/  
+│   │   │       ├── CreateProduct.js  
+│   │   │       ├── EditProduct.js  
+│   │   │       ├── ProductList.js  
+│   │   │   └── users/  
+│   │   │       ├── UserDetails.js  
+│   │   │       ├── UserList.js  
+│   ├── auth/  
+│   │   ├── Login.js  
+│   │   ├── Register.js  
+│   ├── App.js  
+│   ├── AppContext.js  
+│   ├── index.js  
+├── hashPassword.js  
+├── package-lock.json  
+├── package.json  
+├── source_code.code-workspace  
+├── README.md  
+└── .gitignore  
 
 
  **africstouchecomstore-api** 
