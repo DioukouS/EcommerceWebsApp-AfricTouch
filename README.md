@@ -251,8 +251,6 @@ africstouchecomstore-api/
 ├── africtouchecomstoreServer.js  
 ├── package-lock.json  
 ├── package.json  
-├── README.md  
-└── .gitignore  
 ```
 ### **Completed Final Project:**
 - Fully commented source code and executable
