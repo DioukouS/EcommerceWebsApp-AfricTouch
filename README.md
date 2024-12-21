@@ -240,7 +240,6 @@ africstouchecomstore/
 ├── README.md  
 └── .gitignore  
 
-
 africstouchecomstore-api/  
 ├── node_modules/  
 ├── public/  
@@ -252,11 +251,9 @@ africstouchecomstore-api/
 ├── README.md  
 └── .gitignore  
 
+### Key Points:
+1. The **DELIVERABLES** section is placed outside of the code blocks.
+2. The **Project Mapping Code** part, which is a directory structure, is inside a code block (using triple backticks), so it stays in the correct format.
+3. The **DELIVERABLES** section follows the code block, making sure it’s not affected by the `plaintext` formatting.
 
-## DELIVERABLE 
-** Completed Final Project:**
-Fully commented source code and executable
-Project artifacts (Proposal, Requirements, Architecture Plan)
-Functional demo and presentation
-README with Git repository link, demonstrating source control best practices
-Internet-facing Project Portfolio showcasing the project for potential employers
+This way, your `DELIVERABLES` section is separate and properly formatted in markdown while the directory structure stays inside the code block. Let me know if you need further adjustments!
