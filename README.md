@@ -185,20 +185,6 @@ The project follows an interactive e-commerce development approach to sell tailo
 | 3        | User authentication failure | High | High | Review token storage | Fixed |
 
 ---
-
-## Appendix B - References
-
-1. React.js Documentation, [reactjs.org](https://reactjs.org/docs/getting-started.html)
-2. JWT Authentication Guide, [jwt.io](https://jwt.io/introduction/)
-
----
-
-## Appendix C - External Resources
-
-1. Free API Data for Product Listings - [mockaroo.com](https://www.mockaroo.com/)
-2. Online Authentication Tutorial - [dev.to](https://dev.to/)
-
----
 ## Project Mapping Code:
 
 ### **africstouchecomstore & africstouchecomstore-api** 
@@ -258,3 +244,15 @@ africstouchecomstore-api/
 - Functional demo and presentation
 - README with Git repository link, demonstrating source control best practices
 - Internet-facing Project Portfolio showcasing the project for potential employers
+
+- ---
+
+## Appendix B - References
+
+1. React.js Documentation, [reactjs.org](https://reactjs.org/docs/getting-started.html)
+2. JWT Authentication Guide, [jwt.io](https://jwt.io/introduction/)
+
+---
+## Appendix C - External Resources
+1. Free API Data for Product Listings - [mockaroo.com](https://www.mockaroo.com/)
+2. Online Authentication Tutorial - [dev.to](https://dev.to/)
