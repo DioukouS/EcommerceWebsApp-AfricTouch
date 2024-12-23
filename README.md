@@ -137,7 +137,7 @@ The project follows an interactive e-commerce development approach to sell tailo
 ---
 
 ### UML Diagrams: 
-![UML Diagrams](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/UMLflow_diagram.png)
+![UML Diagrams](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/CST352_Images/UMLflow_diagram.png)
 
 ### Tools Used:
 
