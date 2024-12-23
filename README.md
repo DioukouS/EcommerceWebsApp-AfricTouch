@@ -81,9 +81,8 @@ The UML diagrams, such as data flow diagrams and functional components, describe
 |--------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------|
 | 1 - Product Browsing and Filtering               | To ensure users can view and filter products efficiently using a React.js frontend and JSON API backend. | Successful implementation; users can browse and filter products |
 | 2 - Secure User Authentication (JWT)             | To implement user authentication to protect user data and restrict access to certain functionalities. | JWT-based authentication verified; users can register, login, and access secure pages successfully. |
-| 3 - Order Processing and Checkout Flow           | To validate the order process, including product selection and confirmation. | The entire checkout process was tested and functions correctly, from cart to order confirmation. |
-| 4 - API Integration for Data Retrieval           | To verify the API's ability to fetch product data from the backend and display it on the frontend. | Data was retrieved and displayed successfully with no latency issues; API routes working as expected. |
-| 5 - Product Management                            | To use CRUD operation to test the ability to add, edit, and delete products from the catalog. | CRUD operations are fully functional; products can be managed, and updates are reflected in the UI. 
+| 3 - API Integration for Data Retrieval           | To verify the API's ability to fetch product data from the backend and display it on the frontend. | Data was retrieved and displayed successfully with no latency issues; API routes working as expected. |
+| 4 - Product Management                            | To use CRUD operation to test the ability to add, edit, and delete products from the catalog. | CRUD operations are fully functional; products can be managed, and updates are reflected in the UI. 
 
 ---
 
