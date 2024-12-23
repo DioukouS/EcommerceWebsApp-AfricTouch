@@ -123,17 +123,20 @@ The project follows an interactive e-commerce development approach to sell tailo
 ---
 ### User Interface Diagrams: 
 - **HOMEPAGE:**
-![HOMEPAGE](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/UI_ContactPage.png)
+![HOMEPAGE](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/CST352_Images/Homepage_interface.PNG)
 ---
 - **CONTACT:**
-![CONTACT](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/UI_ContactPage.png)
+![CONTACT](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/CST352_Images/Contactpage_interface.PNG)
 ---
 - **REGISTER:**
-![REGISTER](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/UI_RegisterPage.png)
+![REGISTER](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/CST352_Images/UserRegistration_interface.PNG)
+---
+- **CLIENT PROFILE:**
+![CLIENT PROFILE](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/CST352_Images/Clientpage_interface.PNG)
 ---
 
 ### UML Diagrams: 
-![UML Diagrams](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/AfricTouch_UMLDiagram.png)
+![UML Diagrams](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/UMLflow_diagram.png)
 
 ### Tools Used:
 
