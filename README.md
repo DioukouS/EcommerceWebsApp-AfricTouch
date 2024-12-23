@@ -182,54 +182,86 @@ The project follows an interactive e-commerce development approach to sell tailo
 
 | Issue ID | Description | Likelihood | Impact | Action | Status |
 |----------|-------------|------------|--------|--------|--------|
-| 1        | API latency issue | Medium | Medium | Optimize API calls | In Progress |
-| 2        | Product image not loading | Low | Low | Verify image paths | Fixed |
-| 3        | User authentication failure | High | High | Review token storage | Fixed |
+| 1        | API latency issue | Medium | Medium | Optimize API calls | Resolved |
+| 2        | Product image not loading | Low | Low | Verify image paths | Resolved |
+| 3        | User authentication failure | High | High | Review token storage | Resolved |
 
 ---
 ## Project Mapping Code:
 
 ### **africstouchecomstore & africstouchecomstore-api** 
 ```plaintext
-africstouchecomstore/  
-├── node_modules/  
-├── public/  
-│   ├── images/  
-│   ├── favicon.ico  
-│   ├── manifest.json  
-│   └── robots.txt  
-├── src/  
-│   ├── components/  
-│   │   └── layout/  
-│   │       ├── Footer.js  
-│   │       ├── Navbar.js  
-│   │       ├── layout.js  
-│   │       ├── authorization.js  
-│   ├── pages/  
-│   │   ├── Home.js  
-│   │   ├── Contact.js  
-│   │   ├── NotFound.js  
-│   │   ├── ProductDetails.js  
-│   │   ├── UserProfile.js  
-│   │   ├── admin/  
-│   │   │   └── products/  
-│   │   │       ├── CreateProduct.js  
-│   │   │       ├── EditProduct.js  
-│   │   │       ├── ProductList.js  
-│   │   │   └── users/  
-│   │   │       ├── UserDetails.js  
-│   │   │       ├── UserList.js  
-│   ├── auth/  
-│   │   ├── Login.js  
-│   │   ├── Register.js  
-│   ├── App.js  
-│   ├── AppContext.js  
-│   ├── index.js  
-├── hashPassword.js  
-├── package-lock.json  
-├── package.json  
-├── source_code.code-workspace  
-├── README.md  
+\CST452-SrProjectApp \ africstouchecomstore\    # Senior Project App directory 
+
+├── africstouchecomstore/      		# Front-end directory (React app) 
+
+│   ├── build/                    			# Compiled production-ready files  
+
+│   ├── node_modules/            		# Project dependencies installed by npm 
+
+│   ├── public/                   			# Publicly accessible files and assets 
+
+│   │   ├── images/               			# Folder for image assets 
+
+│   │   ├── favicon.ico           			# Icon for the website 
+
+│   │   ├── manifest.json         			# Manifest for PWA (Progressive Web App) 
+
+│   │   └── robots.txt            			# Instructions for search engine bots 
+
+│   ├── src/                      			# Source code for the React app 
+
+│   │   ├── components/           		# Reusable components 
+
+│   │   │   ├── Authorization.js  	       	# Logic for authorization (login, register) 
+
+│   │   │   └── FrontLayout.js   			# Layout component logic (was layout.js) 
+
+│   │   ├── pages/                			# Components representing different pages 
+
+│   │   │   ├── Homepage.js       		# Homepage of the app 
+
+│   │   │   ├── Contact.js        			# Contact page 
+
+│   │   │   ├── ErrorPageAccess.js 		# Error page for access issues 
+
+│   │   │   ├── ProductDetails.js 		# Page displaying product details 
+
+│   │   │   ├── ClientProfile.js  			# Client profile page (replacing User Profile) 
+
+│   │   │   ├── admin/            			# Admin section pages 
+
+│   │   │   │   ├── products/     			# Folder for managing products 
+
+│   │   │   │   │   ├── CreateProduct.js 		# Page for creating products 
+
+│   │   │   │   │   ├── UpdateProduct.js 	# Page for updating products 
+
+│   │   │   │   │   └── ProductList.js   		# Page displaying list of products 
+
+│   │   │   │   ├── clients/      			# Folder for managing clients 
+
+│   │   │   │   │   ├── ClientDetails.js 		# Page for displaying client details 
+
+│   │   │   │   │   └── ClientList.js    		# Page displaying list of clients 
+
+│   │   │   └── authentication/   		# Authentication-related pages 
+
+│   │   │       ├── Signin.js     			# Sign in page for existing users 
+
+│   │   │       └── Signup.js     			# Signup page for new users 
+
+│   │   ├── GlobalContext.js       		# Global state using React Context API 
+
+│   │   ├── index.js               			# Entry point of the React application 
+
+│   ├── hashPassword.js            		# Utility for hashing passwords 
+
+│   ├── package.json               			# Dependencies, scripts, and metadata 
+
+│   ├── package-lock.json          		# Exact version of dependencies installed 
+
+│   ├── README.md                  		# Project documentation 
 
 africstouchecomstore-api/  
 ├── node_modules/  
