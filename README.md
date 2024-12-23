@@ -193,84 +193,51 @@ The project follows an interactive e-commerce development approach to sell tailo
 ```plaintext
 \CST452-SrProjectApp \ africstouchecomstore\    # Senior Project App directory 
 
-├── africstouchecomstore/      		# Front-end directory (React app) 
-
-│   ├── build/                    			# Compiled production-ready files  
-
-│   ├── node_modules/            		# Project dependencies installed by npm 
-
-│   ├── public/                   			# Publicly accessible files and assets 
-
-│   │   ├── images/               			# Folder for image assets 
-
-│   │   ├── favicon.ico           			# Icon for the website 
-
-│   │   ├── manifest.json         			# Manifest for PWA (Progressive Web App) 
-
-│   │   └── robots.txt            			# Instructions for search engine bots 
-
-│   ├── src/                      			# Source code for the React app 
-
-│   │   ├── components/           		# Reusable components 
-
-│   │   │   ├── Authorization.js  	       	# Logic for authorization (login, register) 
-
+├── africstouchecomstore/      		      # Front-end directory (React app) 
+│   ├── build/                    		   # Compiled production-ready files  
+│   ├── node_modules/            		   # Project dependencies installed by npm 
+│   ├── public/                   		   # Publicly accessible files and assets 
+│   │   ├── images/               		   # Folder for image assets 
+│   │   ├── favicon.ico           		   # Icon for the website 
+│   │   ├── manifest.json         		   # Manifest for PWA (Progressive Web App) 
+│   │   └── robots.txt            		   # Instructions for search engine bots 
+│   ├── src/                      		   # Source code for the React app 
+│   │   ├── components/           		   # Reusable components 
+│   │   │   ├── Authorization.js  	      # Logic for authorization (login, register) 
 │   │   │   └── FrontLayout.js   			# Layout component logic (was layout.js) 
-
 │   │   ├── pages/                			# Components representing different pages 
-
-│   │   │   ├── Homepage.js       		# Homepage of the app 
-
+│   │   │   ├── Homepage.js       		   # Homepage of the app 
 │   │   │   ├── Contact.js        			# Contact page 
-
-│   │   │   ├── ErrorPageAccess.js 		# Error page for access issues 
-
-│   │   │   ├── ProductDetails.js 		# Page displaying product details 
-
+│   │   │   ├── ErrorPageAccess.js 		   # Error page for access issues 
+│   │   │   ├── ProductDetails.js 		   # Page displaying product details 
 │   │   │   ├── ClientProfile.js  			# Client profile page (replacing User Profile) 
-
 │   │   │   ├── admin/            			# Admin section pages 
-
 │   │   │   │   ├── products/     			# Folder for managing products 
-
-│   │   │   │   │   ├── CreateProduct.js 		# Page for creating products 
-
+│   │   │   │   │   ├── CreateProduct.js 	# Page for creating products 
 │   │   │   │   │   ├── UpdateProduct.js 	# Page for updating products 
-
-│   │   │   │   │   └── ProductList.js   		# Page displaying list of products 
-
+│   │   │   │   │   └── ProductList.js   	# Page displaying list of products 
 │   │   │   │   ├── clients/      			# Folder for managing clients 
-
-│   │   │   │   │   ├── ClientDetails.js 		# Page for displaying client details 
-
-│   │   │   │   │   └── ClientList.js    		# Page displaying list of clients 
-
-│   │   │   └── authentication/   		# Authentication-related pages 
-
+│   │   │   │   │   ├── ClientDetails.js 	# Page for displaying client details 
+│   │   │   │   │   └── ClientList.js    	# Page displaying list of clients 
+│   │   │   └── authentication/   		   # Authentication-related pages 
 │   │   │       ├── Signin.js     			# Sign in page for existing users 
-
 │   │   │       └── Signup.js     			# Signup page for new users 
-
-│   │   ├── GlobalContext.js       		# Global state using React Context API 
-
+│   │   ├── GlobalContext.js       		   # Global state using React Context API 
 │   │   ├── index.js               			# Entry point of the React application 
-
-│   ├── hashPassword.js            		# Utility for hashing passwords 
-
+│   ├── hashPassword.js            		   # Utility for hashing passwords 
 │   ├── package.json               			# Dependencies, scripts, and metadata 
+│   ├── package-lock.json          		   # Exact version of dependencies installed 
+│   ├── README.md                  		   # Project documentation 
 
-│   ├── package-lock.json          		# Exact version of dependencies installed 
-
-│   ├── README.md                  		# Project documentation 
-
-africstouchecomstore-api/  
-├── node_modules/  
-├── public/  
-│   └── images/  
-├── africtouchecomstoreDB.json  
-├── africtouchecomstoreServer.js  
-├── package-lock.json  
-├── package.json  
+\CST452-SrProjectApp \ africstouchecomstore-api\  
+├── africstouchecomstore-api/      		# API directory for the project 
+│   ├── node_modules/             		# Project dependencies installed by npm 
+│   ├── public/                   			# Publicly accessible files and assets 
+│   │   └── images/               			# Folder for image assets 
+│   ├── africtouchecomstoreDB.json 		# Database file for the backend (JSON format) 
+│   ├── africtouchecomstoreServer.js		# Server file for API (Node.js/Express) 
+│   ├── package-lock.json         		# Exact version of dependencies installed 
+│   ├── package.json              			# Dependencies, scripts, API metadata  
 ```
 ### **Completed Final Project:**
 - Fully commented source code and executable
