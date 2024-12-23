@@ -182,13 +182,6 @@ The project follows an interactive e-commerce development approach to sell tailo
 | TC19      | Social Media Link Clicks          | 1. Navigate to any page with social media links. 2. Click on the links.   | Social media pages open successfully.                           | Social media pages open successfully.                           | Pass       | Ensure social media links are functional.                                                   |
 
 
----
-
-## Conclusion
-- The e-commerce web application developed in this phase ensures a complete, responsive experience for the users and allows effective management for administrators. 
-- Each feature from login, product display, User profile managemen. Note, that authentication system is secured with JWT to ensure safe user access.
-- Moving forward, more testing and optimization to improve performance and scalability.
-
 - ---
 
 ## Appendix A - Technical Issue and Risk Log
@@ -270,3 +263,17 @@ The project follows an interactive e-commerce development approach to sell tailo
 ## Appendix C - External Resources
 1. Free API Data for Product Listings - [mockaroo.com](https://www.mockaroo.com/)
 2. Online Authentication Tutorial - [dev.to](https://dev.to/)
+
+3. ---
+
+## Conclusion
+- The e-commerce web application developed in this phase ensures a complete, responsive experience for the users and allows effective management for administrators. 
+- Each feature from login, product display, User profile managemen. Note, that authentication system is secured with JWT to ensure safe user access.
+- Moving forward, more testing and optimization to improve performance and scalability.
+---
+## NEXT FINAL WEEK  
+1. DATE: (12/30/2024 to 01/05/2024) 
+**Planned Key Deliverables**
+- Begin final debugging and unit testing on December 30, 2024. 
+- Incorporate beta test feedback and finalize all application features by January 2, 2025. 
+- Prepare and rehearse the final presentation to ensure a professional delivery on January 5, 2025. 
