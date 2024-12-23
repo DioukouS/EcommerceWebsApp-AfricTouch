@@ -41,18 +41,8 @@ Integrated Instructor Feedback into Project Documentation
 ## TABLE OF CONTENTS
 
 1. [Detailed High-Level Solution Design](#detailed-high-level-solution-design)  
-   1.1. [Project Overview](#https://github.com/Lediouk/CST452_SrEcomProject/tree/main?tab=readme-ov-file#abstract)  
-   1.2. [Key Features and Capabilities](#key-features-and-capabilities)  
-   1.3. [System Components](#system-components)  
-   1.4. [Interaction Diagrams](#interaction-diagrams)  
-
 2. [Detailed Technical Design](#detailed-technical-design)  
-   2.1. [System Architecture](#system-architecture)  
-   2.2. [Data Flow Diagram](#data-flow-diagram)  
-   2.3. [Database Design](#database-design)  
-   2.4. [API Specifications](#api-specifications)  
-   2.5. [Technology Stack](#technology-stack)  
----
+
 
 ## Design Introduction
 
