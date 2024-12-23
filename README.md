@@ -41,7 +41,7 @@ Integrated Instructor Feedback into Project Documentation
 ## TABLE OF CONTENTS
 
 1. [Detailed High-Level Solution Design](#detailed-high-level-solution-design)  
-   1.1. [Project Overview](#project-overview)  
+   1.1. [Project Overview](#https://github.com/Lediouk/CST452_SrEcomProject/tree/main?tab=readme-ov-file#abstract)  
    1.2. [Key Features and Capabilities](#key-features-and-capabilities)  
    1.3. [System Components](#system-components)  
    1.4. [Interaction Diagrams](#interaction-diagrams)  
