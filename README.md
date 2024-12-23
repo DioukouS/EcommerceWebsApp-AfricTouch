@@ -120,7 +120,7 @@ The project follows an interactive e-commerce development approach to sell tailo
 ![UML Flow Diagram](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/CST352_Images/FlowChartsProcessFlows.png)
 ---
 ### Sitemap Diagram: 
-![Sitemap Diagram](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/CST352_Images/AfricsTouch_SITEmap.png)
+![Sitemap Diagram](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/CST352_Images/AfricTouch_SiteMAP.PNG)
 ---
 ### User Interface Diagrams: 
 - **HOMEPAGE:**
