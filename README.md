@@ -34,16 +34,16 @@ Since online presence is important, and to address growing demand for online pre
 | 01/05/2025  | Dioukou Sissoko  | Final Architecture and Design Presentation      |
 
 ## TABLE OF CONTENTS
-- **Design Overview** ..............................................................4  
-- **Detailed High-Level Solution Design** ..........................................5  
-- **Detailed Technical Design** ....................................................6  
-- **APPENDIX A – Reference** .......................................................7  
-- **APPENDIX B – COPYRIGHT AND COMPLIANCE** ........................................8  
+- **Design Overview**  
+- **Detailed High-Level Solution Design** 
+- **Detailed Technical Design** 
+- **APPENDIX A – Reference**
+- **APPENDIX B – COPYRIGHT AND COMPLIANCE**
 
 
 ## Design Introduction
 
-This current e-commerce online web application project includes many features such as the ability of all users or shoppers when they land on our design homepage, they can browse products, shopping cart functionality, and checkout process which will be integrated later when the site is live on the internet, and friendly administrative management of products and users. The User Interface (UI) application is designed and developed using React.js, and the backend database management is fully integrated using JSON server. Most importantly, is that the robust security features include JWT authentication server for user login and management, thus ensuring secure access to all resources at ease. 
+This current e-commerce online web application project includes many features such as the ability of all users or shoppers when they land on our design homepage, they can browse products, shopping cart functionality, and checkout process, Note addtional feature when the site is live on the internet will be impletement such as different method of payment, and friendly administrative management of products and users. The User Interface (UI) application is designed and developed using React.js, and the backend database management is fully integrated using JSON server. Most importantly, is that the robust security features include JWT authentication server for user login and management, thus ensuring secure access to all resources at ease. 
 
 ---
 
