@@ -1,3 +1,5 @@
+![Alt Text]([ImageURL](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/africTouch_leftImage.PNG))
+
 # Dioukou Sissoko
 
 ## CST-452 Senior Project II
