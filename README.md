@@ -90,6 +90,11 @@ The UML diagrams, such as data flow diagrams and functional components, describe
 *Figure 5: Category Data Flow for the project updated as of 1/05/2025.*
 
 ---
+
+### <u>Product Data Flow</u>
+![Product Data Flow](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/1-05-25_PRODUCT_DATAFLOW.png)
+
+*Figure 6: Product Data Flow for the project updated as of 1/05/2025.*
 ### Tools
 
 - **User:** Display result on any browsers such as Safari, Chrome, Firefox, or Edge 
