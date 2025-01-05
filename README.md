@@ -76,6 +76,13 @@ The UML diagrams, such as data flow diagrams and functional components, describe
 *Figure 3: ER Diagram Design for the project updated as of 1/05/2025.*
 
 ---
+
+### Admin & Client Profile Data Flow
+![Admin & Client Profile Data Flow](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/1-05-25_Client-Admin_DATAFLOW.png)
+
+*Figure 4: Admin & Client Profile Data Flow for the project updated as of 1/05/2025.*
+
+---
 ### Tools
 
 - **User:** Display result on any browsers such as Safari, Chrome, Firefox, or Edge 
