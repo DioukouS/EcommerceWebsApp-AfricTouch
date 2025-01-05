@@ -139,12 +139,19 @@ The UML diagrams, such as data flow diagrams and functional components, describe
 
 ## Proof of Concepts 
 
-| Description                                      | Rationale                                                                   | Results                                                         |
-|--------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------|
-| 1 - Product Browsing and Filtering               | To ensure users can view and filter products efficiently using a React.js frontend and JSON API backend. | Successful implementation; users can browse and filter products |
-| 2 - Secure User Authentication (JWT)             | To implement user authentication to protect user data and restrict access to certain functionalities. | JWT-based authentication verified; users can register, login, and access secure pages successfully. |
-| 3 - API Integration for Data Retrieval           | To verify the API's ability to fetch product data from the backend and display it on the frontend. | Data was retrieved and displayed successfully with no latency issues; API routes working as expected. |
-| 4 - Product Management                            | To use CRUD operation to test the ability to add, edit, and delete products from the catalog. | CRUD operations are fully functional; products can be managed, and updates are reflected in the UI. 
+# Roof of Concepts
+
+| **Description**                                        | **Rationale**                                                                          | **Results**                                                                 |
+|--------------------------------------------------------|----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| **1 - Product Browsing and Filtering**                | To ensure users can view and filter products efficiently using a React.js frontend and JSON API backend. | Successful implementation; users can browse and filter products.           |
+| **2 - Secure User Authentication (JWT)**              | To implement user authentication to protect user data and restrict access to certain functionalities. | JWT-based authentication verified; users can register, login, and access secure pages successfully. |
+| **3 - API Integration for Data Retrieval**            | To verify the API's ability to fetch product data from the backend and display it on the frontend. | Data was retrieved and displayed successfully with no latency issues; API routes working as expected. |
+| **4 - Product Management**                            | To use CRUD operations to test the ability to add, edit, and delete products from the catalog. | CRUD operations are fully functional; products can be managed, and updates are reflected in the UI. |
+| **5 - Shopping Cart Functionality**                   | To allow users to add, remove, and modify product quantities in their shopping cart. | Shopping cart functionality implemented; users can add, remove, and update product quantities. |
+| **6 - Checkout Process**                              | To ensure users can proceed to checkout, review their cart, and complete the purchase. | Checkout process implemented; users can review their cart, apply discounts, and complete their purchase securely. |
+| **7 - Frontend Structure and Layout**                 | To ensure a clean, organized, and user-friendly UI for a seamless shopping experience. | Well-structured React components; reusable components and proper layout implemented for better user experience. |
+| **8 - Backend API Structure and Database**            | To ensure the backend API is well-structured and can handle data efficiently for product management and user authentication. | API endpoints functioning correctly with Node.js/Express; JSON database is used effectively for storing product and user data. |
+
 
 ---
 
