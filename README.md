@@ -24,14 +24,13 @@ Since online presence is important, and to address growing demand for online pre
 
 # History and Signoff Sheet
 
-## Change Record
-
 | Date        | Author           | Revision Notes                                   |
 |-------------|------------------|-------------------------------------------------|
 | 12/01/2024  | Dioukou Sissoko  | Development Phase (Coding)                      |
 | 12/15/2024  | Dioukou Sissoko  | Testing (Testing Phase)                         |
 | 12/22/2024  | Dioukou Sissoko  | Project Completion and Presentation (Release Phase) |
 | 01/05/2025  | Dioukou Sissoko  | Final Architecture and Design Presentation      |
+
 
 ## TABLE OF CONTENTS
 - **Design Overview**  
