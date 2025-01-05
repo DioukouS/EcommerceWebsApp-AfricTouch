@@ -85,9 +85,9 @@ The UML diagrams, such as data flow diagrams and functional components, describe
 ---
 
 ### <u>Category Data Flow</u>
-![Category Data Flow](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/1-05-25_Client-Admin_DATAFLOW.png)
+![Category Data Flow](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/1-05-25_CATEGORY_DATAFLOW.png)
 
-*Figure 4: Admin & Client Profile Data Flow for the project updated as of 1/05/2025.*
+*Figure 5: Category Data Flow for the project updated as of 1/05/2025.*
 
 ---
 ### Tools
