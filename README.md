@@ -179,9 +179,6 @@ The project follows an interactive e-commerce development approach to sell tailo
 ![CLIENT PROFILE](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/CST352_Images/Clientpage_interface.PNG)
 ---
 
-### UML Diagrams: 
-![UML Diagrams](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/CST352_Images/UMLflow_diagram.png)
-
 ### Tools Used:
 
 1. **React.js**  
