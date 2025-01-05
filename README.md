@@ -22,29 +22,35 @@ Since online presence is important, and to address growing demand for online pre
 
 ---
 
-## Porject Projection and Completion timeline
+# History and Signoff Sheet
 
-### Change Record
+## Change Record
 
-| Date       | Author             | Revision Notes                       |
-|------------|--------------------|--------------------------------------|
-| 12/01/2024 | Dioukou Sissoko    | Developement (Coding Phase)          |
-| 12/15/2024 | Dioukou Sissoko    | Milestone 5: Testing (Testing phase)           |
-| **12/22/2024** | Dioukou Sissoko    | Benchmark - Milestone 6: Final Project Completion and Presentation (Release Phase)  design                 |
-| 01/05/2025 | Dioukou Sissoko    | Milestone 6: Final Project Completion and Presentation (Release Phase)               |
-
-### Overall Instructor Feedback/Comments
-
-Integrated Instructor Feedback into Project Documentation
-
-☐ Yes  ☐ No 
+| Date        | Author           | Revision Notes                                   |
+|-------------|------------------|-------------------------------------------------|
+| 12/01/2024  | Dioukou Sissoko  | Development Phase (Coding)                      |
+| 12/15/2024  | Dioukou Sissoko  | Testing (Testing Phase)                         |
+| 12/22/2024  | Dioukou Sissoko  | Project Completion and Presentation (Release Phase) |
+| 01/05/2025  | Dioukou Sissoko  | Final Architecture and Design Presentation      |
 
 ---
 
-## TABLE OF CONTENTS
+## Overall Instructor Feedback/Comments
+<br>  
+### Integrated Instructor Feedback into Project Documentation  
+- [ ] Yes  
+- [ ] No  
 
-1. [Detailed High-Level Solution Design](#detailed-high-level-solution-design)  
-2. [Detailed Technical Design](#detailed-technical-design)  
+### Project Approval  
+- [ ] Professor Scott Webster  
+---
+
+## TABLE OF CONTENTS
+- **Design Overview** ............................................................................................ 4  
+- **Detailed High-Level Solution Design** ............................................................ 5  
+- **Detailed Technical Design** ........................................................................... 6  
+- **APPENDIX A – Reference** .............................................................................. 7  
+- **APPENDIX B – COPYRIGHT AND COMPLIANCE** .................................................. 8  
 
 
 ## Design Introduction
