@@ -104,12 +104,21 @@ The UML diagrams, such as data flow diagrams and functional components, describe
 *Figure 7: Order Data Flow for the project updated as of 1/05/2025.*
 
 ---
+### User Interface Diagrams: 
+- **HomePage:**
+![HOMEPAGE](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/CST352_Images/Homepage_interface.PNG)
 
-## <u>User Interface Diagram </u>
-### HomePage
-![Order Data Flow](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/1-05-25_Homepage_interface.PNG)
-
-*Figure 8: User Interface Diagram: HomePage for the project updated as of 1/05/2025.*
+*Figure 8: HomePage for the project updated as of 1/05/2025.*
+---
+- **CONTACT:**
+![CONTACT](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/CST352_Images/Contactpage_interface.PNG)
+---
+- **REGISTER:**
+![REGISTER](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/CST352_Images/UserRegistration_interface.PNG)
+---
+- **CLIENT PROFILE:**
+![CLIENT PROFILE](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/CST352_Images/Clientpage_interface.PNG)
+---
 
 ### Tools
 
@@ -158,25 +167,6 @@ The project follows an interactive e-commerce development approach to sell tailo
 - **JWT Authentication:** Ensures secure user sessions and access control. 
 - **JSON Server:** Provides a lightweight, easy-to-use backend for CRUD operations. 
 
----
-### Flow Charts/Process Flows: 
-![UML Flow Diagram](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/CST352_Images/FlowChartsProcessFlows.png)
----
-### Sitemap Diagram: 
-![Sitemap Diagram](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/CST352_Images/AfricTouch_SiteMAP.PNG)
----
-### User Interface Diagrams: 
-- **HOMEPAGE:**
-![HOMEPAGE](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/CST352_Images/Homepage_interface.PNG)
----
-- **CONTACT:**
-![CONTACT](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/CST352_Images/Contactpage_interface.PNG)
----
-- **REGISTER:**
-![REGISTER](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/CST352_Images/UserRegistration_interface.PNG)
----
-- **CLIENT PROFILE:**
-![CLIENT PROFILE](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/CST352_Images/Clientpage_interface.PNG)
 ---
 
 ### Tools Used:
