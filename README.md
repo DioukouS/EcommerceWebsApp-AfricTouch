@@ -63,7 +63,11 @@ The UML diagrams, such as data flow diagrams and functional components, describe
 ---
 
 ### UML Process Flow Diagram
-![UML Flow Diagram](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/CST352_Images/CST452_FinalArchitecture_AfricTouch-EcomWebApp.png)
+# FLOW CHARTS: UPDATE 1/05/2025
+![Logical Design Flow](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/1-05-25_FLOW_CHART.png)
+
+*Figure 1: Logical Design Flow for the project as of 1/05/2025.*
+
 ---
 
 ### Tools
