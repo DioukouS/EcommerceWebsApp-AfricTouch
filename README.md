@@ -149,23 +149,20 @@ The UML diagrams, such as data flow diagrams and functional components, describe
 
 ---
 
-## Hardware and Software Technologies 
+# Hardware and Software Technologies
 
-1. **Frontend:** React.js  
-   Used for building a dynamic and responsive user interface for product browsing and interactions. 
+| **Category**                   | **Technologies Used**                                                                                                                                              |
+|---------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Integrated Development Environment (IDE)** | Visual Studio Code for writing and managing code.                                                                                                                |
+| **Version Control**             | GitHub to display projects like portfolios and track changes.                                                                                                    |
+| **Frontend Development**        | JavaScript, HTML, and CSS for creating the user interface.                                                                                                       |
+|                                 | React.js to simplify the development process and enhance the user experience.                                                                                   |
+| **Backend Development**         | Node.js/Express for server-side operations, ensuring efficient backend functionality.                                                                             |
+|                                 | JSON local data for storing and managing application data.                                                                                                      |
+| **Web Browser Used**            | Chrome & Edge Developer Tools to check error network logs during testing and development.                                                                        |
 
-2. **Backend:** JSON Server  
-   Acts as a mock API and data storage system to simulate a full backend, used for CRUD operations. 
-
-3. **Authentication:** JWT  
-   JSON Web Tokens (JWT) provide secure user authentication for login and protected routes. 
-
-4. **Database:** JSON File Storage  
-   Stores product data and user information, acting as the database for the application. 
 
    ---
-
-## Detailed Technical Design 
 
 ### General Technical Approach
 
