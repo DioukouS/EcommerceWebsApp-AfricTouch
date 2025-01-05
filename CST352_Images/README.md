@@ -5,9 +5,9 @@
 ### Grand Canyon University
 
 **Instructor:** Professor Scott Webster  
-**Revision:** 6.0  
-**Milestone6:** Final Project Completion and Presentation (Release Phase)
-**Date:** 12/22/2024  
+**Revision:** 6.1  
+**Milestone6:** Final Project Presentation
+**Date:** 01/05/2025  
 
 ---
 
