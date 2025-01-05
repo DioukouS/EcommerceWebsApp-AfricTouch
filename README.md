@@ -34,11 +34,11 @@ Since online presence is important, and to address growing demand for online pre
 | 01/05/2025  | Dioukou Sissoko  | Final Architecture and Design Presentation      |
 
 ## TABLE OF CONTENTS
-- **Design Overview** ............................................................................................ 4  
-- **Detailed High-Level Solution Design** ............................................................ 5  
-- **Detailed Technical Design** ........................................................................... 6  
-- **APPENDIX A – Reference** .............................................................................. 7  
-- **APPENDIX B – COPYRIGHT AND COMPLIANCE** .................................................. 8  
+- **Design Overview** ..............................................................4  
+- **Detailed High-Level Solution Design** ..........................................5  
+- **Detailed Technical Design** ....................................................6  
+- **APPENDIX A – Reference** .......................................................7  
+- **APPENDIX B – COPYRIGHT AND COMPLIANCE** ........................................8  
 
 
 ## Design Introduction
