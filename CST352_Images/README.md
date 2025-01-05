@@ -1,6 +1,6 @@
 # Dioukou Sissoko
 
-## CST-452 Senior Project II
+## CST-452 Senior Project II Development
 
 ### Grand Canyon University
 
