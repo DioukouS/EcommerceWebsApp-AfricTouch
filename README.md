@@ -5,7 +5,7 @@
 ### Grand Canyon University
 
 **Instructor:** Professor Scott Webster  
-**Revision:** 6.0  
+**Revision:** 6.1 
 **Milestone 6:** Final Project Completion and Presentation (Release Phase)
 
 **Date:** 01/05/2025
@@ -125,7 +125,7 @@ The UML diagrams, such as data flow diagrams and functional components, describe
 - **Client Profile Page:**
 ![Client Profile Page ](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/1-05-25_Client-Admin_DATAFLOW.png)
 
-*Figure 10: Contact Page for the project updated as of 1/05/2025.*
+*Figure 10: Client Profile Page for the project updated as of 1/05/2025.*
 
 ---
 
