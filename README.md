@@ -60,11 +60,12 @@ The logical functionality solution of the e-commerce application includes many f
 The UML diagrams, such as data flow diagrams and functional components, describe the overall flow and interaction between frontend and backend.
 
 ![Logical Design Flow](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/1-05-25_LogicalSolutionDesign.png)
+*Figure 1: Logical Design Flow for the project updated as of 1/05/2025.*
 ---
 
-### UML Process Flow Diagram
+### Logical Design Flow
 ![Logical Design Flow](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/1-05-25_FLOW_CHART.png)
-*Figure 1: Logical Design Flow for the project as of 1/05/2025.*
+*Figure 2: Logical Design Flow for the project updated as of 1/05/2025.*
 
 ---
 
