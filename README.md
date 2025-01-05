@@ -263,8 +263,60 @@ The project follows an interactive e-commerce development approach to sell tailo
 - README with Git repository link, demonstrating source control best practices
 - Internet-facing Project Portfolio showcasing the project for potential employers
 
-- ---
+---
+## Project Schedule UPDATE 1/05/2025
 
+### Work Breakdown Structure (WBS)
+
+| Tasks | Duration |
+|-------|----------|
+| **Planning & Requirements Analysis** | 1 week |
+| - Define requirements | |
+| - Create project plan | |
+| **Frontend Development (React.js)** | 3 weeks |
+| - Set up project structure | |
+| - Implement Navigation Bar | |
+| - Develop User Registration/Login | |
+| - Create Product Listing and Details Pages | |
+| - Implement Shopping Cart & Checkout | |
+| **Backend Development (JSON Server)** | 2 weeks |
+| - Set up JSON Server | |
+| - Create API endpoints for Products, Users | |
+| - Implement Authentication Logic | |
+| - Integrate with Frontend | |
+| **Admin Dashboard Development** | 2 weeks |
+| - Develop Admin Login | |
+| - Implement Product Management | |
+| - Implement User Management | |
+| - Admin Profile Management | |
+| **Testing & Debugging** | 2 weeks |
+| - Unit Testing | |
+| - Integration Testing | |
+| - Added Shopping Cart (Updated) | |
+| **Finalization & Documentation** | 1.5 week |
+| - Document Code | |
+| - Create User Manual | |
+| - Final Review and Adjustments | |
+
+### Project Timeline:
+
+| Task | Start Date | End Date | Duration |
+|------|------------|----------|----------|
+| **Planning & Requirements** | 10/21/2024 | 10/27/2024 | 1 week |
+| **Frontend Development** | 10/28/2024 | 11/17/2024 | 3 weeks |
+| **Backend Development** | 10/28/2024 | 11/10/2024 | 2 weeks |
+| **Admin Dashboard Development** | 11/11/2024 | 11/24/2024 | 2 weeks |
+| **Testing & Debugging** | 11/25/2024 | 12/08/2024 | 2 weeks |
+| **Finalization & Documentation** | 12/09/2024 | 12/15/2024 | 1 week |
+| **Project Wrap-Up & Presentation** | 12/16/2024 | 01/05/2025 | 3 weeks |
+
+---
+## Conclusion
+- The e-commerce web application developed in this phase ensures a complete, responsive experience for the users and allows effective management for administrators. 
+- Each feature from login, product display, User profile managemen. Note, that authentication system is secured with JWT to ensure safe user access.
+- Moving forward, more testing and optimization to improve performance and scalability.
+
+---
 ## Appendix A – References
 
 1. **Project, G.** (2021, July 26). The importance of a Christian worldview. *The Gospel Project*. [https://gospelproject.lifeway.com/the-importance-of-a-christian-worldview/](https://gospelproject.lifeway.com/the-importance-of-a-christian-worldview/)
@@ -278,7 +330,6 @@ The project follows an interactive e-commerce development approach to sell tailo
 5. **React.js Documentation.** *React.js*. [https://reactjs.org/docs/getting-started.html](https://reactjs.org/docs/getting-started.html)
 
 6. **JWT Authentication Guide.** *JWT.io*. [https://jwt.io/introduction/](https://jwt.io/introduction/)
-
 
 ---
 
@@ -307,19 +358,5 @@ The project follows an interactive e-commerce development approach to sell tailo
 - **Reason for Use:** Ready-to-use components and responsive grid system accelerate front-end development.
 
 ---
-
-## Conclusion
-- The e-commerce web application developed in this phase ensures a complete, responsive experience for the users and allows effective management for administrators. 
-- Each feature from login, product display, User profile managemen. Note, that authentication system is secured with JWT to ensure safe user access.
-- Moving forward, more testing and optimization to improve performance and scalability.
----
-## NEXT FINAL WEEK  
-1. DATE: (12/30/2024 to 01/05/2024)
-   
-**Planned Key Deliverables**
-- Begin final debugging and unit testing on December 30, 2024. 
-- Incorporate beta test feedback and finalize all application features by January 2, 2025. 
-- Prepare and rehearse the final presentation to ensure a professional delivery on January 5, 2025.
------
 
 ![Logo](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/africTouch_leftImage.PNG)
