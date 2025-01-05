@@ -204,15 +204,6 @@ The project follows an interactive e-commerce development approach to sell tailo
 
 - ---
 
-## Appendix A - Technical Issue and Risk Log
-
-| Issue ID | Description | Likelihood | Impact | Action | Status |
-|----------|-------------|------------|--------|--------|--------|
-| 1        | API latency issue | Medium | Medium | Optimize API calls | Resolved |
-| 2        | Product image not loading | Low | Low | Verify image paths | Resolved |
-| 3        | User authentication failure | High | High | Review token storage | Resolved |
-
----
 ## Project Mapping Code:
 
 ### **africstouchecomstore & africstouchecomstore-api** 
@@ -274,17 +265,48 @@ The project follows an interactive e-commerce development approach to sell tailo
 
 - ---
 
-## Appendix B - References
+## Appendix A – References
 
-1. React.js Documentation, [reactjs.org](https://reactjs.org/docs/getting-started.html)
-2. JWT Authentication Guide, [jwt.io](https://jwt.io/introduction/)
+1. **Project, G.** (2021, July 26). The importance of a Christian worldview. *The Gospel Project*. [https://gospelproject.lifeway.com/the-importance-of-a-christian-worldview/](https://gospelproject.lifeway.com/the-importance-of-a-christian-worldview/)
+
+2. **facebook.** (n.d.). react/LICENSE at main · facebook/react. *GitHub*. [https://github.com/facebook/react/blob/main/LICENSE](https://github.com/facebook/react/blob/main/LICENSE)
+
+3. **Typicode.** (n.d.). json-server/LICENSE at main · typicode/json-server. *GitHub*. [https://github.com/typicode/json-server/blob/main/LICENSE](https://github.com/typicode/json-server/blob/main/LICENSE)
+
+4. **Twbs.** (n.d.). bootstrap/LICENSE at main · twbs/bootstrap. *GitHub*. [https://github.com/twbs/bootstrap/blob/main/LICENSE](https://github.com/twbs/bootstrap/blob/main/LICENSE)
+
+5. **React.js Documentation.** *React.js*. [https://reactjs.org/docs/getting-started.html](https://reactjs.org/docs/getting-started.html)
+
+6. **JWT Authentication Guide.** *JWT.io*. [https://jwt.io/introduction/](https://jwt.io/introduction/)
+
 
 ---
-## Appendix C - External Resources
-1. Free API Data for Product Listings - [mockaroo.com](https://www.mockaroo.com/)
-2. Online Authentication Tutorial - [dev.to](https://dev.to/)
 
-3. ---
+## Appendix B – Copyright Compliance
+
+### React.js
+- **Copyright Policy:** MIT License  
+- **Reference:** [react/LICENSE at main · facebook/react (github.com)](https://github.com/facebook/react/blob/main/LICENSE)  
+- **Usage:** It is used for front-end development, including components for product listings, user registration/login, shopping cart, and admin dashboard.  
+- **Reason for Use:** Strong community support, component reuse, and efficient UI management.
+
+---
+
+### JSON Server
+- **Copyright Policy:** MIT License  
+- **Reference:** [json-server/LICENSE at main · typicode/json-server (github.com)](https://github.com/typicode/json-server/blob/main/LICENSE)  
+- **Usage:** It is most used as a Mock REST API for backend data storage and retrieval.  
+- **Reason for Use:** Quick setup for mock backend, allowing focus on front-end development.
+
+---
+
+### Bootstrap
+- **Copyright Policy:** MIT License  
+- **Reference:** [bootstrap/LICENSE at main · twbs/bootstrap (github.com)](https://github.com/twbs/bootstrap/blob/main/LICENSE)  
+- **Usage:** It is used for responsive UI components, including navigation bars, forms, and buttons.  
+- **Reason for Use:** Ready-to-use components and responsive grid system accelerate front-end development.
+
+---
 
 ## Conclusion
 - The e-commerce web application developed in this phase ensures a complete, responsive experience for the users and allows effective management for administrators. 
