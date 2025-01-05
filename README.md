@@ -33,18 +33,6 @@ Since online presence is important, and to address growing demand for online pre
 | 12/22/2024  | Dioukou Sissoko  | Project Completion and Presentation (Release Phase) |
 | 01/05/2025  | Dioukou Sissoko  | Final Architecture and Design Presentation      |
 
----
-
-## Overall Instructor Feedback/Comments
-<br>  
-### Integrated Instructor Feedback into Project Documentation  
-- [ ] Yes  
-- [ ] No  
-
-### Project Approval  
-- [ ] Professor Scott Webster  
----
-
 ## TABLE OF CONTENTS
 - **Design Overview** ............................................................................................ 4  
 - **Detailed High-Level Solution Design** ............................................................ 5  
