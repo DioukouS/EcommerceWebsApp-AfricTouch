@@ -64,21 +64,28 @@ The UML diagrams, such as data flow diagrams and functional components, describe
 
 ---
 
-### Logical Design Flow
+### <u>Logical Design Flow</u>
 ![Logical Design Flow](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/1-05-25_FLOW_CHART.png)
 *Figure 2: Logical Design Flow for the project updated as of 1/05/2025.*
 
 ---
 
-### ER Diagram Design
+### <u>ER Diagram Design</u>
 ![ER Diagram Design](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/1-05-25_ER_DIAGRAM.png)
 
 *Figure 3: ER Diagram Design for the project updated as of 1/05/2025.*
 
 ---
 
-### Admin & Client Profile Data Flow
+### <u>Admin & Client Profile Data Flow</u>
 ![Admin & Client Profile Data Flow](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/1-05-25_Client-Admin_DATAFLOW.png)
+
+*Figure 4: Admin & Client Profile Data Flow for the project updated as of 1/05/2025.*
+
+---
+
+### <u>Category Data Flow</u>
+![Category Data Flow](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/1-05-25_Client-Admin_DATAFLOW.png)
 
 *Figure 4: Admin & Client Profile Data Flow for the project updated as of 1/05/2025.*
 
