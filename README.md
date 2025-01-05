@@ -109,15 +109,25 @@ The UML diagrams, such as data flow diagrams and functional components, describe
 ![HOMEPAGE](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/1-05-25_Homepage_interface.PNG)
 
 *Figure 8: HomePage for the project updated as of 1/05/2025.*
+
 ---
-- **CONTACT:**
-![CONTACT](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/CST352_Images/Contactpage_interface.PNG)
+- **Contact Page:**
+![Contact Page](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/1-05-25_Contactpage_interface.PNG)
+
+*Figure 9: Contact Page for the project updated as of 1/05/2025.*
+
 ---
-- **REGISTER:**
-![REGISTER](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/CST352_Images/UserRegistration_interface.PNG)
+- **Register Page:**
+![Register Page](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/1-05-25_UserRegistration_interface.PNG)
+
+*Figure 10: Contact Page for the project updated as of 1/05/2025.*
+
 ---
-- **CLIENT PROFILE:**
-![CLIENT PROFILE](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/CST352_Images/Clientpage_interface.PNG)
+- **Client Profile Page:**
+![Client Profile Page ](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/1-05-25_Client-Admin_DATAFLOW.png)
+
+*Figure 10: Contact Page for the project updated as of 1/05/2025.*
+
 ---
 
 ### Tools
