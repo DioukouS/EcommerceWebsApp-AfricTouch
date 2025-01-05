@@ -95,6 +95,13 @@ The UML diagrams, such as data flow diagrams and functional components, describe
 ![Product Data Flow](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/1-05-25_PRODUCT_DATAFLOW.png)
 
 *Figure 6: Product Data Flow for the project updated as of 1/05/2025.*
+
+---
+
+### <u>Order Data Flow</u>
+![Order Data Flow](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/1-05-25_ORDER_DATAFLOW.png)
+
+*Figure 7: Order Data Flow for the project updated as of 1/05/2025.*
 ### Tools
 
 - **User:** Display result on any browsers such as Safari, Chrome, Firefox, or Edge 
