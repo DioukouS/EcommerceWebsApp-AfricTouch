@@ -1,5 +1,3 @@
-![Logo](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/africTouch_leftImage.PNG)
-
 # Dioukou Sissoko
 
 ## CST-452 Senior Project II
@@ -286,4 +284,7 @@ The project follows an interactive e-commerce development approach to sell tailo
 **Planned Key Deliverables**
 - Begin final debugging and unit testing on December 30, 2024. 
 - Incorporate beta test feedback and finalize all application features by January 2, 2025. 
-- Prepare and rehearse the final presentation to ensure a professional delivery on January 5, 2025. 
+- Prepare and rehearse the final presentation to ensure a professional delivery on January 5, 2025.
+-----
+
+![Logo](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/africTouch_leftImage.PNG)
