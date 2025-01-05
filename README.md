@@ -106,7 +106,7 @@ The UML diagrams, such as data flow diagrams and functional components, describe
 ---
 ### User Interface Diagrams: 
 - **HomePage:**
-![HOMEPAGE](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/CST352_Images/Homepage_interface.PNG)
+![HOMEPAGE](https://github.com/Lediouk/CST452_SrEcomProject/blob/main/CST352_Images/1-05-25_Homepage_interface.PNG)
 
 *Figure 8: HomePage for the project updated as of 1/05/2025.*
 ---
