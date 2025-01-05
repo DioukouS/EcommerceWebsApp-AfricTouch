@@ -38,7 +38,7 @@ Since online presence is important, and to address growing demand for online pre
 - **Detailed High-Level Solution Design** 
 - **Detailed Technical Design** 
 - **APPENDIX A – Reference**
-- **APPENDIX B – COPYRIGHT AND COMPLIANCE**
+- **APPENDIX B – Copyright and Compliance**
 
 
 ## Design Introduction
