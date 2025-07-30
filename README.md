@@ -1,12 +1,7 @@
 # Dioukou Sissoko
 
-## CST-452 Senior Project II
-
-### Grand Canyon University
-
-**Instructor:** Professor Scott Webster  
 **Revision:** 6.1  
-**Milestone 6:** Final Project Completion and Presentation (Release Phase)  
+**AfricTouch's Website Application :** Final Project Completion and Presentation (Release Phase)  
 
 **Date:** 01/05/2025
 
