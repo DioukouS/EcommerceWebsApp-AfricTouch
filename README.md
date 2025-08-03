@@ -1,7 +1,7 @@
 # Dioukou Sissoko
 
 **Revision:** 6.1  
-**AfricTouch's Website Application :** Final Project Completion and Presentation (Release Phase)  
+**AfricTouch's Ecommerce Website Application :** Final Project Completion and Presentation (Release Phase)  
 
 **Date:** 01/05/2025
 
