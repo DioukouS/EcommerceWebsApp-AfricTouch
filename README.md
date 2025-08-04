@@ -1,9 +1,11 @@
 # Dioukou Sissoko
+**BACHELOR OF SCIENCE, SOFTWARE ENGINEERING** GRAND CANYON UNIVERSITY
 
-**Revision:** 6.1  
-**AfricTouch's Ecommerce Website Application :** Final Project Completion and Presentation (Release Phase)  
+**GPA 3.9 | DEAN’S HONOR LIST STUDENT**
 
-**Date:** 01/05/2025
+**Final Revision:** 6.1  
+**Ecommerce Website Application :** Project Completion and Presentation (Release Phase)  
+**Release Date:** 01/05/2025
 
 ---
 
